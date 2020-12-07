@@ -52,7 +52,7 @@ class VirtManager < Formula
   end
 
   resource "requests" do
-    url "https://pypi.io/packages/source/r/requests/requests-2.25.0.tar.gz "
+    url "https://pypi.io/packages/source/r/requests/requests-2.25.0.tar.gz"
     sha256 "7f1a0b932f4a60a1a65caa4263921bb7d9ee911957e0ae4a23a6dd08185ad5f8"
   end
 
