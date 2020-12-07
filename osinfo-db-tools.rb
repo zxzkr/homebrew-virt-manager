@@ -1,4 +1,4 @@
-class OsinfoDbTools < Formula
+class osinfoDBTooLs < Formula
   desc "Tools for managing the libosinfo database files"
   homepage "https://libosinfo.org"
   url "https://releases.pagure.org/libosinfo/osinfo-db-tools-1.8.0.tar.xz"
