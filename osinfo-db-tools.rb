@@ -1,8 +1,8 @@
 class OsinfoDbTools < Formula
   desc "Tools for managing the libosinfo database files"
   homepage "https://libosinfo.org"
-  url "https://releases.pagure.org/libosinfo/osinfo-db-tools-1.6.0.tar.gz"
-  sha256 "d0d5b1196d73a7abed051be48d0e5b4aa196aac4cdbf8ddf52f57c0c492b2574"
+  url "https://releases.pagure.org/libosinfo/osinfo-db-tools-1.8.0.tar.xz"
+  sha256 "e9811a936e74dc262ce297ea7b8addeb111c782de500c9e285d3cdd5fe1b180d"
 
   depends_on "pkg-config" => :build
 
