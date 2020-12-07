@@ -1,4 +1,4 @@
-class OsinfoDb < Formula
+class osinfoDBZ < Formula
   desc "Libosinfo database files"
   homepage "https://libosinfo.org/"
   url "https://releases.pagure.org/libosinfo/osinfo-db-20201119.tar.xz"
