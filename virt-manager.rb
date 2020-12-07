@@ -57,6 +57,7 @@ class VirtManager < Formula
   end
 
   # virt-manager doesn't prompt for password on macOS unless --no-fork flag is provided
+  system "/usr/local/Cellar/virt-manager/2.2.1_3/libexec/bin/python", "-m", "pip", "install", "--upgrade", "pip"
   patch :DATA
 
   def install
